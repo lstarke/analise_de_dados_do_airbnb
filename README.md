@@ -6,7 +6,7 @@
 
 ## Análise de dados do airbnb 
 
-Utilizando dados do portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), neste projeto faço a Análise Exploratória de Dados (EDA de Exploratory Data Analysis) da capital da Noruega, Oslo. Por meio de técnicas estatísticas como medir a dispersão dos dados, verificação de dependência entre atributos, detecção de anomalias entre outros, faço uma exploração minuciosa dos dados, representando através de gráficos para entender e interpretar melhor uma comparação de valores numéricos.
+Utilizando dados do portal [Inside Airbnb](http://insideairbnb.com/get-the-data.html), neste projeto faço a Análise Exploratória de Dados (EDA de Exploratory Data Analysis) da capital da Noruega, Oslo. Por meio de técnicas estatísticas como medir a dispersão dos dados, verificação de dependência entre atributos, detecção de anomalias entre outros, faço uma exploração minuciosa dos dados, representando através de gráficos para entender e interpretar melhor quais percepções são possíveis de de gerar a partir destes dados.
 
 EDA é uma etapa do processo de Data Science fundamental e muito importante para o sucesso do projeto.
 
