@@ -10,7 +10,7 @@ Utilizando dados do portal [Inside Airbnb](http://insideairbnb.com/get-the-data.
 
 EDA é uma etapa do processo de Data Science fundamental e muito importante para o sucesso do projeto.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo](https://medium.com/@leandro.starke/como-fazer-uma-an%C3%A1lise-explorat%C3%B3ria-com-dados-do-airbnb-a1ea8be037b4)
 
 **Links para me acharem:**
 * [Veja o artigo deste projeto no Medium](https://medium.com/@leandro.starke)
